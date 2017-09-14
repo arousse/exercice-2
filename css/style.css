@@ -1,0 +1,46 @@
+.container {
+    height: 100%;
+}
+
+html, body {
+    height: 100%;
+    margin: 20px;
+}
+
+.case1 {
+    background-color: #fbfbff;
+    height: 100%;
+
+}
+
+.case2 {
+    background-color: #fafff3;
+    height: 100%;
+
+}
+
+.case3 {
+    background-color: #fbfbff;
+    height: 100%;
+}
+
+.case4 {
+    background-color: #fbfbff;
+    height: 100%;
+    bor
+}
+
+div {
+    border: solid black;
+    padding: 20px;
+
+}
+
+.avatar {
+    width: 150px;
+}
+
+.center {
+    margin-right: auto;
+    margin-left: auto;
+}
