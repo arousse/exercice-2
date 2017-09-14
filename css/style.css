@@ -13,7 +13,8 @@ html, body {
 }
 
 .avatar {
-  width: 150px;
+  width: 100%;
+  padding: 0 20%;
 }
 
 .center {
