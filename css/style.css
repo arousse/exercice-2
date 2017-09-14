@@ -1,46 +1,30 @@
-.container {
-    height: 100%;
-}
-
 html, body {
-    height: 100%;
-    margin: 20px;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
-.case1 {
-    background-color: #fbfbff;
-    height: 100%;
-
-}
-
-.case2 {
-    background-color: #fafff3;
-    height: 100%;
-
-}
-
-.case3 {
-    background-color: #fbfbff;
-    height: 100%;
-}
-
-.case4 {
-    background-color: #fbfbff;
-    height: 100%;
-    bor
-}
-
-div {
-    border: solid black;
-    padding: 20px;
-
+.container {
+  padding: 20px;
+  margin: 0;
+  height: 100%;
+  width: 100%;
 }
 
 .avatar {
-    width: 150px;
+  width: 150px;
 }
 
 .center {
-    margin-right: auto;
-    margin-left: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.panel{
+  margin: 20px 0;
 }
