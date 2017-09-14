@@ -5,7 +5,10 @@ $(document).ready(function () {
     $(".img-circle").css("width","150px");
     $("#col-1").show();
     setTimeout(function () {
-      $("div").show();
-    },2000)
-  },2000)
+      $(".panel").show();
+      setTimeout(function () {
+        $(".carousel").show();
+      },1000)
+    },1000)
+  },1000)
 })
